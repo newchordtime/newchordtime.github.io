@@ -1,0 +1,8 @@
+(<while>)[Stadium_Sound_Effect]
+=[(<boolean>)*(https/:www.youtube.com)]
+=[(<find>)*((https/:www.youtube.com)=(Stadium_Sound_Effect))]
+=[(<copy>)*(Youtube_Stadium_Sound_Effect_Link)]
+=[(<boolean>)*(https://ytmp3.cc/downloader/)]
+=[(<paste>)*(Youtube_Stadium_Sound_Effect_Link)]
+=[(<download>)*((https://ytmp3.cc/downloader/)*(Youtube_Stadium_Sound_Effect_Link))]:
+_______________________________________________________________________________________________________________________________________________________________________
